@@ -1,2 +1,2 @@
-# cordova-blog-erlem-fr
-Blog - Jean-François Erlem
+# Blog of Jean-François Erlem
+Webbsite : http://blog.erlem.fr

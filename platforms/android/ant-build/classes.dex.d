@@ -1,0 +1,23 @@
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes.dex : \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/CordovaApp.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/R$drawable.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/BuildConfig.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/R$attr.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/R$string.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/R$xml.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/fr/erlem/blog/R.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/debian/src/cordova-blog-erlem-fr/platforms/android/ant-build/dexedLibs/classes-b30d907337c59bcd37813735e0f8ceb5.jar \
