@@ -64,9 +64,6 @@
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/cordova.js \
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/plugins \
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/cordova_plugins.js \
-/home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/js/index.js \
-/home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/css/index.css \
-/home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/img/logo.png \
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser \
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser/www \
 /home/debian/src/cordova-blog-erlem-fr/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js \
